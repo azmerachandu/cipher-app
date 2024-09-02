@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1712334074555,
+    "name": "RAMESH",
+    "username": "ramesh",
+    "password": "123456",
+    "email": "lahorirameshnaik@gmail.com",
+    "phoneNumber": "08639733523"
+  },
+  {
+    "id": 1712422374044,
+    "name": "dhoni",
+    "username": "dhoni",
+    "password": "dhoni",
+    "email": "dhoni@gmail.com",
+    "phoneNumber": "1234567890"
+  }
+]
